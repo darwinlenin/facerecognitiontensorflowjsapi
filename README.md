@@ -1,8 +1,10 @@
 # IMPORTANT: FACE-API Tensorflow
 
-Application hosted in Netlify: https://frosty-liskov-b7f342.netlify.app/
+Application hosted in Netlify: https://facerecognitiontensorflowjsapi.netlify.app/
 
 You must enable your device camera and wait a few seconds before initializing the app to enjoy the functionality
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5608494e-7725-42c7-b4c5-d0d0fde2f24b/deploy-status)](https://app.netlify.com/sites/facerecognitiontensorflowjsapi/deploys)
 
 ## `navigator.getUserMedia`
 
