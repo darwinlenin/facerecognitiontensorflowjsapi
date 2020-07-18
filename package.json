@@ -1,0 +1,16 @@
+{
+  "name": "facerecognitiontensorflowjsapi",
+  "version": "1.0.0",
+  "description": "face api js recognition face with tensorflow",
+  "main": "face-api.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tensorflow",
+    "face-api",
+    "javascript"
+  ],
+  "author": "Darwin Palma",
+  "license": "ISC"
+}
